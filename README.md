@@ -25,12 +25,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_India.svg/1200px-Flag_of_India.svg.png" alt="Hindi" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" alt="Hindi" width="50">
       <br><strong>Hindi</strong><br>
       <span>Native Language</span>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="50">
+      <img src="URL_TO_UPLOADED_IMAGE" alt="English" width="50">
       <br><strong>English</strong><br>
       <span>Professional Proficiency</span>
     </td>
