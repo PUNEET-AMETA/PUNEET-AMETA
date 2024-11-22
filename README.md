@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Puneet Ameta</h1>
+<h1 align="center"> Puneet Ameta</h1>
 
 - 🌱 I’m currently learning **Unreal Engine and Blender**
 
