@@ -30,7 +30,7 @@
       <span>Native Language</span>
     </td>
     <td align="center">
-      <img src="URL_TO_UPLOADED_IMAGE" alt="English" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English" width="50">
       <br><strong>English</strong><br>
       <span>Professional Proficiency</span>
     </td>
