@@ -70,7 +70,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="developer gif" width="300"/>
 </p>
 
-<p align="center">"Imagination is the only weapon in the war against reality." ✨</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7A1&width=435&lines=Let's+build+something+amazing!+🚀" alt="Typing SVG" />
 </p>
