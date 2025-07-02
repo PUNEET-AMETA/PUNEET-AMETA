@@ -34,16 +34,6 @@
       <br><strong>English</strong><br>
       <span>Professional Proficiency</span>
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" alt="French" width="50">
-      <br><strong>French</strong><br>
-      <span>Basic Proficiency</span>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png" alt="Korean" width="50">
-      <br><strong>Korean</strong><br>
-      <span>Basic Proficiency</span>
-    </td>
   </tr>
 </table>
 
@@ -60,7 +50,7 @@
 
 <h3 align="center">🚀 Languages and Tools 🚀</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,figma,java,linux,matlab,mysql,opencv,pandas,python,scikit-learn,tensorflow&theme=dark" alt="languages and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,java,python,mysql,aws&theme=dark" alt="languages and tools" />
 </p>
 
 ---
@@ -69,7 +59,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="developer gif" width="300"/>
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7A1&width=435&lines=Let's+build+something+amazing!+🚀" alt="Typing SVG" />
